@@ -32,5 +32,9 @@
   现在本地和远程完全同步了！以后每次修改后，只需要：
 
   git add .
+
+
   git commit -m "提交说明"
+
+  
   git push
