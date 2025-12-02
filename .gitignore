@@ -1,0 +1,10 @@
+# Claude Code 配置目录
+.claude/
+
+# 临时文件
+*.tmp
+*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
